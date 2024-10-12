@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1728758504
+icon.svg::CompressedTexture2D::3941512376822480182::1728666858::1728666885::1::::<><>::
+::res://assets/::1728758489
+::res://assets/Blue_witch/::1728758489
+B_witch_attack.png::CompressedTexture2D::4653684478217974772::1728667630::1728667630::1::::<><>::
+B_witch_charge.png::CompressedTexture2D::9003466885284376609::1728667630::1728667630::1::::<><>::
+B_witch_death.png::CompressedTexture2D::6029249961077988742::1728667630::1728667630::1::::<><>::
+B_witch_idle.png::CompressedTexture2D::1542473887866322422::1728667630::1728667630::1::::<><>::
+B_witch_run.png::CompressedTexture2D::1717159256270934463::1728667630::1728667630::1::::<><>::
+B_witch_take_damage.png::CompressedTexture2D::5215302279493611781::1728667630::1728667630::1::::<><>::
+::res://scenes/::1728758489
+teste.tscn::PackedScene::6756625526720569450::1728676458::0::1::::<><>::uid://v8gk4otphlb7::::res://assets/Blue_witch/B_witch_idle.png<>uid://yp2mks3cv6sx::::res://assets/Blue_witch/B_witch_run.png
